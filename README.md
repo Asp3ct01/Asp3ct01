@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Asp3ct01
 - 👀 I’m interested in learning and harnessing AI power to assist creation in development field.
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 📫 How to reach me: anujdave2004@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
